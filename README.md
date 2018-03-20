@@ -1,10 +1,10 @@
-# Simple Higher Order Component Example
+# Simple Higher Order / Render with Props Component Examples
 
 ## Getting Started
 
 ```bash
-git clone https://github.com/sfletche/simple-hoc-example.git
-cd simple-hoc-example
+git clone https://github.com/sfletche/simple-hoc-rwp-example.git
+cd simple-hoc-rwp-example
 npm install
 npm start
 ```
