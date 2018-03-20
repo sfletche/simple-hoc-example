@@ -1,5 +1,5 @@
 import React from 'react';
-import { withMouse } from 'with-mouse';
+import { withMouse } from './with-mouse';
 
 class MyComponent extends React.Component {
   render() {
@@ -9,7 +9,7 @@ class MyComponent extends React.Component {
 
     return (
       <div>
-        <h1>My HoC says the mouse position is ({x}, {y})</h1>
+        <h1>My HoC says mouse position is ({x}, {y})</h1>
       </div>
     );
   }

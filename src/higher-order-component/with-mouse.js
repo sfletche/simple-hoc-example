@@ -1,3 +1,5 @@
+import React from 'react';
+
 export const withMouse = (Component) => {
   return class extends React.Component {
     state = { x: 0, y: 0 };
